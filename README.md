@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on EAS Sistemas
+- 🔭 I’m currently working at EAS Sistemas
 - 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript and React
 
 <div align="center">
