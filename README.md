@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working at EAS Sistemas
-- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript and React
+- 🌱 I’m currently learning HTML, CSS, JavaScript, MySQL, TypeScript and React
 
 <div align="center">
   <a href="https://github.com/eduardopetersen">
