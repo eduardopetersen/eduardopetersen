@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-
-- 🌱 I’m currently learning HTML, CSS, JavaScript, MySQL, TypeScript and React
+- 🔭 Hi I’m currently working at Agafarma as Full Stack developer
+- 🌱 I’m currently learning JavaScript, MySQL, TypeScript and React
 
 <div align="center">
   <a href="https://github.com/eduardopetersen">
